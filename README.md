@@ -16,7 +16,7 @@ This project detects animals from webcam/video input and triggers alerts (sound 
 
 ## 📂 Folder Structure
 ```
-animal_detection_project/
+source_code/
 ├── main.py                          # Combined detection script
 ├── mobilenet_ssd/
 │   ├── deploy.prototxt              # MobileNet-SSD architecture
