@@ -95,14 +95,6 @@ pip install ultralytics opencv-python numpy playsound matplotlib seaborn scikit-
 
 ---
 
-## 📌 Future Improvements
-- Save detection logs to CSV/JSON  
-- Confusion matrix visualization for model benchmarking  
-- Support for video file input instead of webcam  
-- GUI overlay for alerts  
-
----
-
 ## 📜 License
 This project is licensed under the Mozilla Public License 2.0 (MPL-2.0)– see the [LICENSE](LICENSE) file for details.
 
